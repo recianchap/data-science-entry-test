@@ -6,7 +6,6 @@ def string_reverse(s):
     - Return the reversed string.
     """
     
-def string_reverse(s):
     # Check if s is a string
     if not isinstance(s, str):
         return -1
