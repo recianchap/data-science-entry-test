@@ -6,8 +6,6 @@ def update_dictionary(dct, key, value):
     - Return the updated dictionary.
     """
 
-
-def update_dictionary(dct, key, value):
     # Check if dct is a dictionary
     if not isinstance(dct, dict):
         return -1
